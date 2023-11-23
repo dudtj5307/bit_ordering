@@ -1,2 +1,2 @@
-# cpp_project
+# Bit-ordering
 daily development of my coding skills
